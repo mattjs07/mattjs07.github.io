@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Probability and Statistics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Seminar - Master 1"
+permalink: /teaching/JMR_metrics1
+venue: "Sciences Po"
+date: 2022-01-01
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Asssistant for Jean-Marc Robin. First class of the econometrics module of Sciences Po's M.Res in economics.
 
-Heading 1
-======
+Link to the course page [here](https://sites.google.com/site/jmarcrobin/teaching/probability-and-statistics-econometrics-1-master-in-economics-1st-year?authuser=0)
 
-Heading 2
-======
-
-Heading 3
-======
