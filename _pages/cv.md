@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 [Download CV here](https://mattjs07.github.io/files/CV_GILBERT.pdf)
-Education
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
