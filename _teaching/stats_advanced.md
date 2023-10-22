@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture - Bachelor"
 permalink: /teaching/stats_advanced
 venue: "Sciences Po"
-date: 2022 - ongoing
+date: 2022-01-01
 location: "Le Havre campus, France"
 ---
 
