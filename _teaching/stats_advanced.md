@@ -1,5 +1,5 @@
 ---
-title: "Statistics for Social Sciences (avdanced)"
+title: "Statistics for Social Sciences (advanced)"
 collection: teaching
 type: "Lecture - Bachelor"
 permalink: /teaching/stats_advanced
